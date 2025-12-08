@@ -3,5 +3,11 @@ uvicorn
 openai
 langchain
 langchain-openai
+langchain-community
+langchain-text-splitters
 python-dotenv
 pydantic
+requests
+pypdf
+faiss-cpu
+streamlit
