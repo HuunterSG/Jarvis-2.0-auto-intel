@@ -1,4 +1,4 @@
-# Jarvis-2.0-auto-intel
+# Jarvis-2.0-auto-inte
 AI-driven orchestration platform for high-end automotive workshop operation
 # Jarvis 2.0: AI Orchestrator for Automotive Operations
 
